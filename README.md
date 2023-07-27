@@ -1,4 +1,4 @@
-# saltylinux007
+# Beacons & Reactors
 
 Good Beacon/Reactor config links:
 * https://www.linode.com/docs/guides/monitoring-salt-minions-with-beacons/
