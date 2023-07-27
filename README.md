@@ -6,6 +6,7 @@ Good Beacon/Reactor config links:
 
 
 VIEW EVENTS ON THE MASTER
+
 On your Salt master, start the event runner using the following command:
 ```
   salt-run state.event pretty=true
